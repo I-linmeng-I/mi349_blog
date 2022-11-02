@@ -60,3 +60,7 @@ a:hover {
 .center{
     text-align: center;
 }
+
+li[title]{
+    text-align: left;
+}
