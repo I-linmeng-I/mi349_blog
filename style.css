@@ -15,7 +15,6 @@ body {
 }
 
 h1 {
-	text-align: center;
 	background-color: #3CF;
 	color: #DD4A48;
 }
@@ -50,4 +49,14 @@ a {
 a:hover {
 	text-decoration: none;
 	color: rgb(125, 125, 255);
+}
+
+#table1{
+    background-color: rgb(201, 100, 100);
+
+
+}
+
+.center{
+    text-align: center;
 }
