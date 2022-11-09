@@ -14,17 +14,15 @@ html {
 	background-color: rgba(0, 128, 0, 0.3);
 }
 
-h1 {
+
+
+h2 {
 	background-color: #3CF;
 	color: #DD4A48;
 }
 
-h2 {
-	padding: 7px;
-	color: #E8E8A6;
-}
-
 h3 {
+	padding: 7px;
 	color: #E8E8A6;
 }
 h4 {
