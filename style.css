@@ -5,8 +5,8 @@ html {
 }
 
 .Main {
-	width: 761px;
-	margin: 1.5em auto; 
+	width: 50%;
+	margin-left: 10%;
 	border-color: #303;
 	border-style: solid;
 	border-width: 10px;
@@ -35,8 +35,15 @@ p{
 	color: #000;
 }
 
-img {
-    margin:0 auto;
+.BlockImage {
+	display: block;
+	position: fixed;
+	top: 20%;
+	right: 0;
+}
+img{
+	width: 576px;
+	height: 324px;
 	border-color: #303;
 	border-style: solid;
 	border-width: 5px;
